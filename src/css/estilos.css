@@ -142,6 +142,12 @@ body {
 	border-radius: 10px;
 	padding: 80px;
 	gap: 40px;
+	opacity: 0.3;
+	transition: all .5s ease;
+}
+
+.compre-ja .cartao:hover{
+	opacity: 1;
 }
 
 .compre-ja .informacoes {
